@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal5_projects\\gunballgame\\gunball\\intermediate\\build\\win64\\unrealeditor\\inc\\gunball\\uht\\tp_weaponcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal5_projects\\gunballgame\\gunball\\intermediate\\build\\win64\\x64\\gunballeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal5_projects\\gunballgame\\gunball\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gunball\\definitions.gunball.h",
+            "d:\\unreal5_projects\\gunballgame\\gunball\\source\\gunball\\tp_weaponcomponent.h",
+            "d:\\unreal5_projects\\gunballgame\\gunball\\intermediate\\build\\win64\\unrealeditor\\inc\\gunball\\uht\\tp_weaponcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

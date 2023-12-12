@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal5_Projects\\GunBallGame\\GunBall\\Source\\GunBall\\GunBall.Build.cs",
+		"D:\\Unreal5_Projects\\GunBallGame\\GunBall\\Source\\GunBall.Target.cs",
+		"D:\\Unreal5_Projects\\GunBallGame\\GunBall\\Source\\GunBallEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

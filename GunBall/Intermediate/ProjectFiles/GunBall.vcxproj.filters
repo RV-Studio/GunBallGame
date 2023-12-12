@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GunBall.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GunBall.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GunBallEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GunBall">
+      <UniqueIdentifier>{6232CF8E-996E-3E2D-8464-5CC6CBD67601}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GunBall\GunBall.Build.cs">
+      <Filter>Source\GunBall</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GunBall\GunBall.cpp">
+      <Filter>Source\GunBall</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GunBall\GunBall.h">
+      <Filter>Source\GunBall</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GunBall\GunBallCharacter.cpp">
+      <Filter>Source\GunBall</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GunBall\GunBallCharacter.h">
+      <Filter>Source\GunBall</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GunBall\GunBallGameMode.cpp">
+      <Filter>Source\GunBall</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GunBall\GunBallGameMode.h">
+      <Filter>Source\GunBall</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GunBall\GunBallPlayerController.cpp">
+      <Filter>Source\GunBall</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GunBall\GunBallPlayerController.h">
+      <Filter>Source\GunBall</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GunBall\GunBallProjectile.cpp">
+      <Filter>Source\GunBall</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GunBall\GunBallProjectile.h">
+      <Filter>Source\GunBall</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GunBall\TP_PickUpComponent.cpp">
+      <Filter>Source\GunBall</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GunBall\TP_PickUpComponent.h">
+      <Filter>Source\GunBall</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GunBall\TP_WeaponComponent.cpp">
+      <Filter>Source\GunBall</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GunBall\TP_WeaponComponent.h">
+      <Filter>Source\GunBall</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
